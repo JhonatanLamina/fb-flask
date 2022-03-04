@@ -71,3 +71,24 @@
 	font-size: 18px;
 	font-weight: bold;
 }
+@media only screen and (max-width : 780px) {
+	#c2{
+		padding: 10px 0px 10px 0px;
+	}
+	.c3{
+		margin: 0 auto;
+		width: 350px;
+		padding: 0px 0px 10px 0px;
+		text-align: center;
+	}
+	.c4{
+		margin: 0 auto;
+		width: 350px;
+	}
+	#p1{
+		font-size: 50px;
+	}
+	#p2{
+		font-size: 18px;
+	}
+}
